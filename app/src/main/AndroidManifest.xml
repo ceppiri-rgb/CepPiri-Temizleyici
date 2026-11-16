@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
         android:allowBackup="false"
+        android:icon="@drawable/ceppiri_icon"
+        android:roundIcon="@drawable/ceppiri_icon"
         android:label="CepPiri Temizleyici"
         android:theme="@android:style/Theme.Material.Light.NoActionBar"
         android:usesCleartextTraffic="false">
